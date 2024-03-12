@@ -7,5 +7,6 @@ Linear Algebra done right 4th edition
 ## deep learning
 Deep Learning with Python
 
-## linux system kernel
+## operate system
+https://hansimov.gitbook.io/csapp
 https://docs.kernel.org/index.html
