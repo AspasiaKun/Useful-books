@@ -8,5 +8,5 @@ Linear Algebra done right 4th edition
 Deep Learning with Python
 
 ## operate system
-https://hansimov.gitbook.io/csapp
+https://hansimov.gitbook.io/csapp  
 https://docs.kernel.org/index.html
