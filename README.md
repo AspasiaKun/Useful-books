@@ -9,6 +9,8 @@ Deep Learning with Python
 
 Elements of Causal Inference
 
+https://d2l.ai/
+
 ## operate system
 Computer-Systems-A-Programmers-Perspective-3rd
 
