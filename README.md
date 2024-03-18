@@ -15,3 +15,6 @@ https://d2l.ai/
 Computer-Systems-A-Programmers-Perspective-3rd
 
 https://docs.kernel.org/index.html
+
+## c++
+https://learnmoderncpp.com/
