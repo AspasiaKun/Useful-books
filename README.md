@@ -1,5 +1,5 @@
 # Useful-books
-upload some useful books
+upload some useful books and webs
 
 ## math
 Linear Algebra done right 4th edition
@@ -28,3 +28,4 @@ Mastering Graphics Programming with Vulkan
 
 ## Unity
 https://catlikecoding.com/unity/tutorials/
+https://www.cyanilux.com/tutorials/urp-shader-code/
