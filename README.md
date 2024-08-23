@@ -29,3 +29,7 @@ Mastering Graphics Programming with Vulkan
 ## Unity
 https://catlikecoding.com/unity/tutorials/
 https://www.cyanilux.com/tutorials/urp-shader-code/
+
+## Rendering
+https://developer.nvidia.com/gpugems/gpugems3/contributors
+https://github.com/QianMo/Game-Programmer-Study-Notes/tree/master
