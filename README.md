@@ -35,3 +35,6 @@ https://www.cyanilux.com/tutorials/urp-shader-code/
 https://developer.nvidia.com/gpugems/gpugems3/contributors
 
 https://github.com/QianMo/Game-Programmer-Study-Notes/tree/master
+
+## Metal
+https://www.kodeco.com/5493-metal-rendering-pipeline-tutorial#toc-anchor-001
